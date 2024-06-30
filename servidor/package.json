@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "server": "node server.js",
-    "test": "test start"
+    "server": "node server.js"
   },
   "keywords": [],
   "author": "",
